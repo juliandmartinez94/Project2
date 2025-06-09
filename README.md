@@ -1,7 +1,5 @@
 # Project2
 
-
-Document your work: Prepare a report that includes the following sections:
 a. Introduction: Introduce your web app and its purpose.
 Project 2 for CAP 4104. Used Open Brewery DB as an API to show users the breweries in every state. 
 
